@@ -40,7 +40,6 @@ At the end of this iteration, your application should look like this:
 
 ![Screenshot](https://i1.faceprep.in/ProGrad/pro1.PNG)
 
-
 ### PROGRESSION 2 | Add New Random Prostars
 
 In your application, create a "*Add Random Prostart* button so that every time you click on this button it adds a new random actor.
@@ -59,6 +58,7 @@ The producer asked you to add two new buttons to help them to sort their prostar
 Don't forget to `setState()` after you sort!
 
 This is what you may have at the end of this iteration:
+
 
 ![Screenshot](https://i1.faceprep.in/ProGrad/pro3.PNG)
 
